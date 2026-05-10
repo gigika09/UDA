@@ -1,0 +1,11 @@
+# Cartelle generate da Ant — non vanno su Git
+/build/
+/dist/
+
+# Impostazioni locali di NetBeans — cambiano per ogni sviluppatore
+/nbproject/private/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+*.class
